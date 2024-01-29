@@ -1,0 +1,14 @@
+
+*.obj
+*.html
+*.js
+*.svg
+*.png
+*.css
+*.pdb
+*.lib
+*.idb
+*.tlog
+*.recipe
+*.log
+*.jpg
